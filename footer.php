@@ -1,6 +1,6 @@
 <footer class="brk-footer position-relative " id="contact" data-brk-library="component__footer">
 			<div class="brk-footer__wrapper pt-120 pb-60 d-flex flex-column align-items-center">
-				<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/demo_minimalistic_portfolio/1860x480_1.jpg" alt="alt" class="brk-abs-img lazyload">
+				<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="d/f.jpg" alt="alt" class="brk-abs-img lazyload">
 				<span class="brk-abs-overlay brk-base-bg-11"></span>
 				<div class="text-center mb-100" data-brk-library="component__typing_rotator,assets__typing_rotator">
 					<img src="l22.png" alt="">
@@ -85,6 +85,4 @@
 			}; /* END OF ON LOAD FUNCTION */
 		}()); /* END OF WRAPPING FUNCTION */
 	</script>
-</body>
-
-</html>
+	

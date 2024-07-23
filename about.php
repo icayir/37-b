@@ -6,7 +6,7 @@
     </style>
     <title>37/b || Hakkımızda</title>
 <?php include "header_nav.php"; ?>
-<div class="breadcrumbs__section breadcrumbs__section-thin brk-bg-center-cover lazyload" data-bg="bk.png" data-brk-library="component__breadcrumbs_css">
+<div class="breadcrumbs__section breadcrumbs__section-thin brk-bg-center-cover lazyload" data-bg="d/b.jpg" data-brk-library="component__breadcrumbs_css">
 		<span class="brk-abs-bg-overlay brk-bg-grad opacity-80"></span>
 		<div class="breadcrumbs__wrapper">
 			<div class="container">
@@ -52,3 +52,6 @@
             </div>
 
             <?php include "footer.php"; ?>     
+			</body>
+
+</html>
