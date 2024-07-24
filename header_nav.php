@@ -4,8 +4,8 @@
 	<link rel="shortcut icon" href="logo2.ico">
 	<link rel="apple-touch-icon-precomposed" href="logo2.ico">
 	<meta name="theme-color" content="#2775FF">
-	<meta name="keywords" content="foto, photo, video, fotoğraf">
-	<meta name="description" content="foto, photo, video, fotoğraf">
+	<meta name="keywords" content="sanat, art ">
+	<meta name="description" content="sanat, art">
 	<link rel="stylesheet" id="brk-direction-bootstrap" href="css/assets/bootstrap.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 	<link rel="stylesheet" id="brk-skin-color" href="css/skins/brk-black.css">
@@ -60,12 +60,12 @@
 										</a>
 									</li>
 									<li class="brk-nav__drop-down-effect">
-										<a href="#news">
+										<a href="#">
 											<span>Vitrin</span>
 										</a>
 									</li>
 									<li class="brk-nav__drop-down-effect">
-										<a href="#contact">
+										<a href="event.php">
 											<span>Etkinlikler</span>
 										</a>
 									</li>
