@@ -4,14 +4,18 @@
 				<span class="brk-abs-overlay brk-base-bg-11"></span>
 				<div class="text-center mb-100" data-brk-library="component__typing_rotator,assets__typing_rotator">
 					<img src="l22.png" alt="">
+					
 				</div>
+				<div class="mb-10 text-center"> <p class="font__family-open-sans font__size-16 lh-18 letter-spacing-100 brk-dark-font-color">Bardacık Sokak 37/b Ankara</p> </div>
+				<p class="brk-dark-font-color mb-10 text-center"><a href= "mailto: 37bsanatyeri@gmail.com">37bsanatyeri@gmail.com</a></p>
+				
 				<div class="brk-social-links brk-white-font-color d-flex justify-content-center mb-25 font__size-16 brk-social-links_bordered" data-brk-library="component__social_links">
 					
-					<a href="https://www.instagram.com/37b_sanat/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.1s" data-wow-duration=".35s">
+					<a href="https://www.instagram.com/37bsanatyeri/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.1s" data-wow-duration=".35s">
 						<i class="fab fa-instagram"></i>
 					</a>
 					
-					<a href="#" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.3s" data-wow-duration=".35s">
+					<a href="https://www.youtube.com/channel/UC7-kJxAMHTYhenhGtfz7_Mw" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.3s" data-wow-duration=".35s">
 						<i class="fab fa-youtube"></i>
 					</a>
 					

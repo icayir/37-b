@@ -4,7 +4,7 @@
             background-color: black;
         }
     </style>
-    <title>37/b || Hakkımızda</title>
+    <title>37/b || Etkinlikler</title>
 <?php include "header_nav.php"; ?>
 <div class="breadcrumbs__section breadcrumbs__section-thin brk-bg-center-cover lazyload" data-bg="d/b.jpg" data-brk-library="component__breadcrumbs_css">
 		<span class="brk-abs-bg-overlay brk-bg-grad opacity-80"></span>
@@ -33,11 +33,11 @@
 								<h2 class="font__family-roboto font__size-56 font__weight-thin mb-2">Canavarlar </h2>
 								<h3 class="brk-dark-font-color font__family-montserrat font__size-12 font__weight-normal text-uppercase letter-spacing-100 mb-auto">Burada onlar yaşıyorlardı, Canavarlar  </h3>
 								<div class="brk-social-links brk-black-font-color font__size-13 brk-social-links_opacity" data-brk-library="component__social_links">
-								<a href="https://www.instagram.com/37b_sanat/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.1s" data-wow-duration=".35s">
+								<a href="https://www.instagram.com/37bsanatyeri/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.1s" data-wow-duration=".35s">
 									<i class="fab fa-instagram"></i>
 								</a>
 								
-								<a href="#" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.3s" data-wow-duration=".35s">
+								<a href="https://www.youtube.com/channel/UC7-kJxAMHTYhenhGtfz7_Mw" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.3s" data-wow-duration=".35s">
 									<i class="fab fa-youtube"></i>
 								</a>
 								

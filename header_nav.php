@@ -69,6 +69,11 @@
 											<span>Etkinlikler</span>
 										</a>
 									</li>
+									<li class="brk-nav__drop-down-effect">
+										<a href="#contact">
+											<span>İletişim</span>
+										</a>
+									</li>
 								</ul>
 							</nav>
 						</div>

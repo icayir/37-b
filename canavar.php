@@ -1,5 +1,5 @@
 <?php include "header_head.php"; ?>
-    <title>37/b</title>
+    <title>37/b || canavarlar</title>
 <?php include "header_nav.php"; ?>
 
 <body>
@@ -255,7 +255,9 @@
 			</div>
 		</section>
 
-
+<div class="container mt-40  text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qatRZxnLTWc?si=ADVSVgKEeY4AMBUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div class="container mt-60  text-center">
     <div class="row">
