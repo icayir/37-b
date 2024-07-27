@@ -264,14 +264,22 @@
         <?php for ($i = 1; $i <= 21; $i++): ?>
             <div class="col-lg-6 col-md-4 col-sm-6 mb-2">
                 <div class="brk-gallery-card" data-brk-library="component__gallery" style="position: relative; width: 100%; padding-bottom: 0%;">
-                    <a href="d/web<?php echo $i; ?>.jpg" data-fancybox="gallery" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                        <img src="d/web<?php echo $i; ?>.jpg" class=" brk-gallery-card__img lazyload" alt="Image <?php echo $i; ?>" style="width: 100%; height: 100%; object-fit: contain; cursor: pointer;">
-                    </a>
+                    
+                     
+					<img src="d/web<?php echo $i; ?>.jpg" class=" brk-gallery-card__img lazyload" alt="Image <?php echo $i; ?>" style="width: 100%; height: 100%; object-fit: contain; cursor: pointer;">
+					<span class="brk-gallery-card__overlay-angle"></span>
+					<a href="d/web<?php echo $i; ?>.jpg" data-fancybox="gallery" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></a>	
+					</a>
+					<span class="brk-gallery-card__angle-btn pr-15 pb-15 justify-content-end align-items-end d-flex">
+						<i class="fas fa-search font__size-16 brk-white-font-color" aria-hidden="true"></i>
+					</span>
                 </div>
             </div>
         <?php endfor; ?>
     </div>
 </div>
+
+						
 
 <?php include "footer.php"; ?>
 
