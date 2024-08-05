@@ -1,4 +1,4 @@
-# Requires mod_expires to be enabled.
+# Requires mod_expires and mod_headers to be enabled.
 <IfModule mod_expires.c>
   # Enable expirations.
   ExpiresActive On
@@ -19,3 +19,11 @@
       Header set Cache-Control "max-age=604800"
   </FilesMatch>
 </IfModule>
+
+# Enable rewrite engine and redirect HTTP to HTTPS
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
