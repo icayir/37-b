@@ -60,11 +60,6 @@
 										</a>
 									</li>
 									<li class="brk-nav__drop-down-effect">
-										<a href="#">
-											<span>Vitrin</span>
-										</a>
-									</li>
-									<li class="brk-nav__drop-down-effect">
 										<a href="event.php">
 											<span>Etkinlikler</span>
 										</a>
